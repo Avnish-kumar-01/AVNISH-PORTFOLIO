@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 Add your deployed portfolio link here:
 
-https://your-portfolio-link.com
+https://avnish-portfolio-nu.vercel.app
 
 ---
 
